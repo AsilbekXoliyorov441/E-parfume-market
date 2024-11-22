@@ -41,7 +41,7 @@ const CartPage = () => {
           <div className="deliver-input">
             <h1>Deliver</h1>
             <input type="text" placeholder='Location of deliver' />
-            <textarea id="" cols="30" rows="10"placeholder='Commentary'></textarea>
+            <textarea cols={30} rows={10} placeholder='Commentary'></textarea>
           </div>
         </div>
         <div className="payment">
