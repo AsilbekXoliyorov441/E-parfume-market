@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/swiper": "^6.0.0",
+    "antd": "^5.22.2",
     "axios": "^1.7.2",
     "js-cookie": "^3.0.5",
     "next": "^14.2.3",
